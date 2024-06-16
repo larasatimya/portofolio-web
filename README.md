@@ -1,4 +1,4 @@
-Nama: Larasati Mya Mulyono
-NPM: 2210631250059
-Mata Kuliah: Pemrograman Berbasis Web
+Nama: Larasati Mya Mulyono <br>
+NPM: 2210631250059 <br>
+Mata Kuliah: Pemrograman Berbasis Web <br>
 Dosen Pengampu: Kamal Prihandani, M.Kom
